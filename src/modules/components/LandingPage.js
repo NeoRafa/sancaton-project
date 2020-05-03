@@ -20,7 +20,7 @@ class LandingPage extends Component {
             </Cell>
           </Grid>
         </div>
-        <div style={{ width: "100%", backgroundColor: "black" }}>
+        <div style={{ width: "100%", backgroundColor: "#333333" }}>
           <Grid>
             <Cell col={6}>
               <h3 className="subDelivery">Entrega Customizada</h3>

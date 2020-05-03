@@ -6,7 +6,7 @@ const Main = () => {
   return (
     <div className="Main">
       <Switch>
-        <Route exact path="/sancaton-project" component={LandingPage} />
+        <Route exact path={process.env.PUBLIC_URL + '/'} component={LandingPage} />
         <Route exact path="/" component={LandingPage} />
 
       </Switch>
