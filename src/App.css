@@ -2,6 +2,8 @@
   text-align: center;
 }
 
+.Navigation {
+  background-color: black !important; /* fallback for old browsers */}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
