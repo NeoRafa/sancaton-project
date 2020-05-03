@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sancaton-project/static/css/main.56bef904.chunk.css",
+    "main.js": "/sancaton-project/static/js/main.06268c90.chunk.js",
+    "main.js.map": "/sancaton-project/static/js/main.06268c90.chunk.js.map",
+    "runtime-main.js": "/sancaton-project/static/js/runtime-main.e3df35d6.js",
+    "runtime-main.js.map": "/sancaton-project/static/js/runtime-main.e3df35d6.js.map",
+    "static/css/2.680b4795.chunk.css": "/sancaton-project/static/css/2.680b4795.chunk.css",
+    "static/js/2.b4a56c62.chunk.js": "/sancaton-project/static/js/2.b4a56c62.chunk.js",
+    "static/js/2.b4a56c62.chunk.js.map": "/sancaton-project/static/js/2.b4a56c62.chunk.js.map",
+    "index.html": "/sancaton-project/index.html",
+    "precache-manifest.3ae566fcc6e5515281cb8ee6e520dd39.js": "/sancaton-project/precache-manifest.3ae566fcc6e5515281cb8ee6e520dd39.js",
+    "service-worker.js": "/sancaton-project/service-worker.js",
+    "static/css/2.680b4795.chunk.css.map": "/sancaton-project/static/css/2.680b4795.chunk.css.map",
+    "static/css/main.56bef904.chunk.css.map": "/sancaton-project/static/css/main.56bef904.chunk.css.map",
+    "static/js/2.b4a56c62.chunk.js.LICENSE.txt": "/sancaton-project/static/js/2.b4a56c62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3df35d6.js",
+    "static/css/2.680b4795.chunk.css",
+    "static/js/2.b4a56c62.chunk.js",
+    "static/css/main.56bef904.chunk.css",
+    "static/js/main.06268c90.chunk.js"
+  ]
+}
