@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sancaton-project/precache-manifest.ec3089483341c859f2778710b9788f63.js"
+  "/sancaton-project/precache-manifest.5c95563fc54bfd622ec13d1b46cc75b2.js"
 );
 
 self.addEventListener('message', (event) => {
