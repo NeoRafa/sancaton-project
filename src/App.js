@@ -37,14 +37,6 @@ function App() {
             <Main />
           </div>
         </Content>
-        <Footer size="mini">
-          <FooterSection type="left" logo="XtraJoy">
-            <FooterLinkList>
-              <a href="#">Help</a>
-              <a href="#">Privacy & Terms</a>
-            </FooterLinkList>
-          </FooterSection>
-        </Footer>
       </Layout>
     </div>
   );

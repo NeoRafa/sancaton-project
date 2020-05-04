@@ -40,7 +40,7 @@ class LandingPage extends Component {
               <p className="pDelivery">
                 Para aumentar a transparência com seu cliente, você poderá
                 enviar para ele fotos durante o preparo do seu pedido, trazendo
-                felicidade para ele.
+                segurança para ele.
               </p>
             </Cell>
             <Cell col={7}>
