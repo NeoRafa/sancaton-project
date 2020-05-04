@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1fce806e823ad96b299f7ee65f131ea",
+    "revision": "62b9408a5b09054032aa02c98beabd9b",
     "url": "/sancaton-project/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sancaton-project/static/css/2.680b4795.chunk.css"
   },
   {
-    "revision": "62440ac7bb4c4caae252",
+    "revision": "615eb8a9b945c0407a4a",
     "url": "/sancaton-project/static/css/main.1ab31471.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sancaton-project/static/js/2.71bcc534.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "62440ac7bb4c4caae252",
-    "url": "/sancaton-project/static/js/main.05ef76b2.chunk.js"
+    "revision": "615eb8a9b945c0407a4a",
+    "url": "/sancaton-project/static/js/main.0700156d.chunk.js"
   },
   {
     "revision": "d00852cc4bb2db2bef64",
