@@ -51,7 +51,7 @@ class LandingPage extends Component {
         <div style={{ width: "100%" }} className="MainStyle">
           <Grid>
             <Cell col={12} className="LandingGrid">
-              <h2 className="subDelivery">Que somos</h2>
+              <h2 className="subDelivery">Quem somos</h2>
               <img
                 width="180px"
                 alt="Quem Somos"
