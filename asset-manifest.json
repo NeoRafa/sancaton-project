@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sancaton-project/static/css/main.1ab31471.chunk.css",
-    "main.js": "/sancaton-project/static/js/main.2ec24939.chunk.js",
-    "main.js.map": "/sancaton-project/static/js/main.2ec24939.chunk.js.map",
+    "main.js": "/sancaton-project/static/js/main.6c6a0104.chunk.js",
+    "main.js.map": "/sancaton-project/static/js/main.6c6a0104.chunk.js.map",
     "runtime-main.js": "/sancaton-project/static/js/runtime-main.e3df35d6.js",
     "runtime-main.js.map": "/sancaton-project/static/js/runtime-main.e3df35d6.js.map",
     "static/css/2.680b4795.chunk.css": "/sancaton-project/static/css/2.680b4795.chunk.css",
     "static/js/2.80cc3cad.chunk.js": "/sancaton-project/static/js/2.80cc3cad.chunk.js",
     "static/js/2.80cc3cad.chunk.js.map": "/sancaton-project/static/js/2.80cc3cad.chunk.js.map",
     "index.html": "/sancaton-project/index.html",
-    "precache-manifest.fa070db05337cac9098d19a63a161692.js": "/sancaton-project/precache-manifest.fa070db05337cac9098d19a63a161692.js",
+    "precache-manifest.ec3089483341c859f2778710b9788f63.js": "/sancaton-project/precache-manifest.ec3089483341c859f2778710b9788f63.js",
     "service-worker.js": "/sancaton-project/service-worker.js",
     "static/css/2.680b4795.chunk.css.map": "/sancaton-project/static/css/2.680b4795.chunk.css.map",
     "static/css/main.1ab31471.chunk.css.map": "/sancaton-project/static/css/main.1ab31471.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.680b4795.chunk.css",
     "static/js/2.80cc3cad.chunk.js",
     "static/css/main.1ab31471.chunk.css",
-    "static/js/main.2ec24939.chunk.js"
+    "static/js/main.6c6a0104.chunk.js"
   ]
 }
