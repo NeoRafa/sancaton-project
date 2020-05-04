@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/sancaton-project/static/css/main.1ab31471.chunk.css",
-    "main.js": "/sancaton-project/static/js/main.0700156d.chunk.js",
-    "main.js.map": "/sancaton-project/static/js/main.0700156d.chunk.js.map",
+    "main.js": "/sancaton-project/static/js/main.2ec24939.chunk.js",
+    "main.js.map": "/sancaton-project/static/js/main.2ec24939.chunk.js.map",
     "runtime-main.js": "/sancaton-project/static/js/runtime-main.e3df35d6.js",
     "runtime-main.js.map": "/sancaton-project/static/js/runtime-main.e3df35d6.js.map",
     "static/css/2.680b4795.chunk.css": "/sancaton-project/static/css/2.680b4795.chunk.css",
-    "static/js/2.71bcc534.chunk.js": "/sancaton-project/static/js/2.71bcc534.chunk.js",
-    "static/js/2.71bcc534.chunk.js.map": "/sancaton-project/static/js/2.71bcc534.chunk.js.map",
+    "static/js/2.80cc3cad.chunk.js": "/sancaton-project/static/js/2.80cc3cad.chunk.js",
+    "static/js/2.80cc3cad.chunk.js.map": "/sancaton-project/static/js/2.80cc3cad.chunk.js.map",
     "index.html": "/sancaton-project/index.html",
-    "precache-manifest.a903379a640b9f0c169eb5e6f74a55f4.js": "/sancaton-project/precache-manifest.a903379a640b9f0c169eb5e6f74a55f4.js",
+    "precache-manifest.fa070db05337cac9098d19a63a161692.js": "/sancaton-project/precache-manifest.fa070db05337cac9098d19a63a161692.js",
     "service-worker.js": "/sancaton-project/service-worker.js",
     "static/css/2.680b4795.chunk.css.map": "/sancaton-project/static/css/2.680b4795.chunk.css.map",
     "static/css/main.1ab31471.chunk.css.map": "/sancaton-project/static/css/main.1ab31471.chunk.css.map",
-    "static/js/2.71bcc534.chunk.js.LICENSE.txt": "/sancaton-project/static/js/2.71bcc534.chunk.js.LICENSE.txt",
+    "static/js/2.80cc3cad.chunk.js.LICENSE.txt": "/sancaton-project/static/js/2.80cc3cad.chunk.js.LICENSE.txt",
     "static/media/avatar.png": "/sancaton-project/static/media/avatar.8ceb7e02.png",
     "static/media/final_logo.png": "/sancaton-project/static/media/final_logo.ebb43a08.png",
     "static/media/food.jpg": "/sancaton-project/static/media/food.9924861c.jpg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.e3df35d6.js",
     "static/css/2.680b4795.chunk.css",
-    "static/js/2.71bcc534.chunk.js",
+    "static/js/2.80cc3cad.chunk.js",
     "static/css/main.1ab31471.chunk.css",
-    "static/js/main.0700156d.chunk.js"
+    "static/js/main.2ec24939.chunk.js"
   ]
 }
