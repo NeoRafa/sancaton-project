@@ -31,10 +31,10 @@ class LandingPage extends Component {
                 pós venda, seu cliente receberá total atenção do nosso sistema,
                 garantindo uma experiência única.
               </p>
-              <h5 className="subDelivery">Playlist Personalizada</h5>
+              <h5 className="subDelivery">Entretenimento Personalizado</h5>
               <p className="pDelivery">
-                Enviaremos playlists com músicas que atendam o perfil do seu
-                cliente para ele enquanto ele espera ou degusta a comida.
+                Enviaremos playlists, filmes ou séries que atendam o perfil do seu
+                cliente enquanto ele espera ou degusta a comida.
               </p>
               <h5 className="subDelivery">Fotos durante o preparo</h5>
               <p className="pDelivery">
