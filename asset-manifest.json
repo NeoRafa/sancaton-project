@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/sancaton-project/static/css/main.56bef904.chunk.css",
-    "main.js": "/sancaton-project/static/js/main.b2ecd9e1.chunk.js",
-    "main.js.map": "/sancaton-project/static/js/main.b2ecd9e1.chunk.js.map",
+    "main.css": "/sancaton-project/static/css/main.1ab31471.chunk.css",
+    "main.js": "/sancaton-project/static/js/main.05ef76b2.chunk.js",
+    "main.js.map": "/sancaton-project/static/js/main.05ef76b2.chunk.js.map",
     "runtime-main.js": "/sancaton-project/static/js/runtime-main.e3df35d6.js",
     "runtime-main.js.map": "/sancaton-project/static/js/runtime-main.e3df35d6.js.map",
     "static/css/2.680b4795.chunk.css": "/sancaton-project/static/css/2.680b4795.chunk.css",
-    "static/js/2.b4a56c62.chunk.js": "/sancaton-project/static/js/2.b4a56c62.chunk.js",
-    "static/js/2.b4a56c62.chunk.js.map": "/sancaton-project/static/js/2.b4a56c62.chunk.js.map",
+    "static/js/2.71bcc534.chunk.js": "/sancaton-project/static/js/2.71bcc534.chunk.js",
+    "static/js/2.71bcc534.chunk.js.map": "/sancaton-project/static/js/2.71bcc534.chunk.js.map",
     "index.html": "/sancaton-project/index.html",
-    "precache-manifest.c41e8155324016ff80ca01c009ac2146.js": "/sancaton-project/precache-manifest.c41e8155324016ff80ca01c009ac2146.js",
+    "precache-manifest.6a11360039ef28d52d10b34c0054faf1.js": "/sancaton-project/precache-manifest.6a11360039ef28d52d10b34c0054faf1.js",
     "service-worker.js": "/sancaton-project/service-worker.js",
     "static/css/2.680b4795.chunk.css.map": "/sancaton-project/static/css/2.680b4795.chunk.css.map",
-    "static/css/main.56bef904.chunk.css.map": "/sancaton-project/static/css/main.56bef904.chunk.css.map",
-    "static/js/2.b4a56c62.chunk.js.LICENSE.txt": "/sancaton-project/static/js/2.b4a56c62.chunk.js.LICENSE.txt"
+    "static/css/main.1ab31471.chunk.css.map": "/sancaton-project/static/css/main.1ab31471.chunk.css.map",
+    "static/js/2.71bcc534.chunk.js.LICENSE.txt": "/sancaton-project/static/js/2.71bcc534.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/sancaton-project/static/media/avatar.8ceb7e02.png",
+    "static/media/final_logo.png": "/sancaton-project/static/media/final_logo.ebb43a08.png",
+    "static/media/food.jpg": "/sancaton-project/static/media/food.9924861c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e3df35d6.js",
     "static/css/2.680b4795.chunk.css",
-    "static/js/2.b4a56c62.chunk.js",
-    "static/css/main.56bef904.chunk.css",
-    "static/js/main.b2ecd9e1.chunk.js"
+    "static/js/2.71bcc534.chunk.js",
+    "static/css/main.1ab31471.chunk.css",
+    "static/js/main.05ef76b2.chunk.js"
   ]
 }
