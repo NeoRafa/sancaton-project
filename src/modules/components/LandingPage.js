@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import { Grid, Cell } from "react-mdl";
 import "./LandingPage.css";
 
+const avatarImg = require("../../assets/avatar.png");
+const foodImg = require("../../assets/food.jpg");
 class LandingPage extends Component {
   render() {
     return (
@@ -22,31 +24,68 @@ class LandingPage extends Component {
         </div>
         <div style={{ width: "100%", backgroundColor: "#333333" }}>
           <Grid>
-            <Cell col={6}>
-              <h3 className="subDelivery">Entrega Customizada</h3>
+            <Cell col={5}>
+              <h5 className="subDelivery">Entrega Customizada</h5>
               <p className="pDelivery">
-                Pellentesque habitant morbi tristique senectus et netus et
-                malesuada fames ac turpis egestas. Vestibulum tortor quam,
-                feugiat vitae. Vestibulum erat wisi, condimentum
+                Durante todas as etapas da entrega: preparo, pedido a caminho e
+                pós venda, seu cliente receberá total atenção do nosso sistema,
+                garantindo uma experiência única.
               </p>
-              <h3 className="subDelivery">Playlist Personalizada</h3>
+              <h5 className="subDelivery">Playlist Personalizada</h5>
               <p className="pDelivery">
-                Pellentesque habitant morbi tristique senectus et netus et
-                malesuada fames ac turpis egestas. Vestibulum tortor quam,
-                feugiat vitae, pharetra. Vestibulum erat wisi, condimentum
+                Enviaremos playlists com músicas que atendam o perfil do seu
+                cliente para ele enquanto ele espera ou degusta a comida.
+              </p>
+              <h5 className="subDelivery">Fotos durante o preparo</h5>
+              <p className="pDelivery">
+                Para aumentar a transparência com seu cliente, você poderá
+                enviar para ele fotos durante o preparo do seu pedido, trazendo
+                felicidade para ele.
               </p>
             </Cell>
-            <Cell col={6}>
-              <img alt="" src="assets/food.jpg" width="100%" />
+            <Cell col={7}>
+              <img alt="" src={foodImg} width="100%" />
             </Cell>
           </Grid>
         </div>
-        <div style={{ width: "100%" }} className='MainStyle'>
+        <div style={{ width: "100%" }} className="MainStyle">
           <Grid>
-            <Cell col={12} className='LandingGrid'>
+            <Cell col={12} className="LandingGrid">
+              <h2 className="subDelivery">Que somos</h2>
+              <img
+                width="180px"
+                alt="Quem Somos"
+                className="avatar-img"
+                src={avatarImg}
+              />
+              <p className="pDelivery">
+                Idealizados no Hackaton de FoodService Sancathon, nossa meta é
+                ajudar pequenos e médios restaurantes a aumentar seus lucros
+                através de uma experiência mais prazerosa para seus consumidores
+                finais. Desenvolvendo em parceria com aplicativos de Delivery,
+                pretendemos revolucionar a forma como o Delivery funciona no
+                Brasil.
+              </p>
+            </Cell>
+          </Grid>
+        </div>
+        <div style={{ width: "100%", backgroundColor: "#333333" }} id="contact">
+          <Grid>
+            <Cell col={8}>
               <h2 className="subDelivery">Gostou?</h2>
               <p className="pDelivery">
-               Entre em contato conosco através do nosso e-mail: xxxxxxxxxxx
+                Então entre em contato conosco o mais rápido possível!
+              </p>
+            </Cell>
+            <Cell col={4}>
+              <p className="pDelivery">
+                Telefone: 
+              </p>
+              <p className="pDelivery">
+                Email:
+              </p>
+              <p className="pDelivery">
+                Instagram:
               </p>
             </Cell>
           </Grid>

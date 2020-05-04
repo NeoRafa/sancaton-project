@@ -1,24 +1,35 @@
 import React from "react";
 import "./App.css";
-import { Layout, Navigation, Header, Drawer, Content } from "react-mdl";
-import Main from './modules/components/Main';
+import {
+  Layout,
+  Navigation,
+  Header,
+  Drawer,
+  Content,
+  Footer,
+  FooterLinkList,
+  FooterSection,
+} from "react-mdl";
+import Main from "./modules/components/Main";
+
+const logo = require("./assets/final_logo.png");
 function App() {
   return (
     <div className="demo-big-content">
       <Layout>
-        <Header title="XTraJoy" className="Navigation" scroll>
+        <Header title="XTrajoy" className="Navigation" scroll>
+          <img alt="XTraJoy" src={logo} width="50px"></img>
+          <Navigation>
+            <a href="/">Home</a>
+            <a href="/">Sobre Nós</a>
+            <a href="#contact">Contato</a>
+          </Navigation>
+        </Header>
+        <Drawer title="XTrajoy">
           <Navigation>
             <a href="/">Home</a>
             <a href="/">Sobre Nós</a>
             <a href="/">Contato</a>
-          </Navigation>
-        </Header>
-        <Drawer title="Title">
-          <Navigation>
-            <a href="/">Link</a>
-            <a href="/">Link</a>
-            <a href="/">Link</a>
-            <a href="/">Link</a>
           </Navigation>
         </Drawer>
         <Content>
@@ -26,6 +37,14 @@ function App() {
             <Main />
           </div>
         </Content>
+        <Footer size="mini">
+          <FooterSection type="left" logo="XtraJoy">
+            <FooterLinkList>
+              <a href="#">Help</a>
+              <a href="#">Privacy & Terms</a>
+            </FooterLinkList>
+          </FooterSection>
+        </Footer>
       </Layout>
     </div>
   );

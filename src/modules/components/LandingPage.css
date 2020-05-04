@@ -20,16 +20,24 @@
   line-height: 35px;
   margin-top: 45px;
   margin-bottom: 60px;
+  text-align: justify;
 }
 
 .subDelivery {
     color: white;
+    text-align: justify;
 }
 
 .pDelivery {
     color: white;
     font-size: 16px;
     line-height: 26px;
+    max-width: 560px;
+    text-align: justify;
+}
+
+.avatar-img {
+    margin-bottom: 2em;
 }
 
 .headersMain {

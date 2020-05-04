@@ -8,7 +8,6 @@ const Main = () => {
       <Switch>
         <Route exact path={process.env.PUBLIC_URL + '/'} component={LandingPage} />
         <Route exact path="/" component={LandingPage} />
-
       </Switch>
     </div>
   );
